@@ -1,6 +1,6 @@
 # How to protect worksheets in the React Spreadsheet Component 
 
-A quick-start project that shows how to protect a sheet in the React Spreadsheet component of Syncfusion. This project also contains code to lock cells in a sheet, protect an entire sheet or workbook with a password and to unprotect them. You can also protect a sheet by using the protectSheet method.
+A quick-start project that shows how to protect a sheet in the [React Spreadsheet](https://www.syncfusion.com/spreadsheet-editor-sdk/react-spreadsheet-editor) component. This project also contains code to lock cells in a sheet, protect an entire sheet or workbook with a password and to unprotect them. You can also protect a sheet by using the protectSheet method.
 
 Documentation: https://ej2.syncfusion.com/react/documentation/spreadsheet/protect-sheet
 
